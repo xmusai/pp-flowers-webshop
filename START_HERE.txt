@@ -1,0 +1,33 @@
+PP FLOWERS — COMPLETE WEBSHOP PACKAGE
+
+This package contains the current webshop prototype, including all editable source code, product images, fonts, vendored build dependencies, tests, documentation and the built website.
+
+VIEW THE WEBSHOP
+Open dist/index.html in a browser. All runtime assets are embedded; no installation is required.
+
+EDIT AND REBUILD
+1. Install Node.js if it is not already available.
+2. Open a terminal in this extracted folder.
+3. Run: npm run build
+4. Open dist/index.html to view the rebuilt website.
+
+OPTIONAL LOCAL SERVER
+With Python 3 installed, run: npm run dev
+Then open http://127.0.0.1:8765
+
+TESTS
+Run: npm test
+
+FILES
+src/                  Editable React/JavaScript and CSS
+assets/               Product imagery, fonts and asset metadata
+vendor/               Included build/runtime dependencies and license notices
+tests/                Automated checks and test dependencies
+dist/index.html       Ready-to-open website
+build.cjs             Self-contained build script
+serve.py              Optional local preview server
+README.md             Development notes and change history
+DEVELOPER_HANDOFF.md   Developer handoff and remaining production work
+PACKAGE_MANIFEST.json File checksums and source revision
+
+The package is the complete current design and interaction prototype. Orders and preferences are stored in each browser locally. Live authentication, inventory, payments and server-side order processing are not connected. No browser account data, credentials or Git history are included.

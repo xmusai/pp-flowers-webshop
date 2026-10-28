@@ -1,0 +1,24 @@
+{
+  "mode": "built-in image_gen",
+  "note": "Representative prototype illustrations, not actual supplier stock photographs or verified cultivars.",
+  "assets": [
+    {
+      "name": "pink-oriental-lily",
+      "path": "/Users/andres/Documents/Codex/2026-09-08/le/outputs/recommendation-assets/pink-oriental-lily.png",
+      "source": "/Users/andres/.codex/generated_images/01a0cd65-7698-72c3-9d87-a35872cd5740/exec-8387809b-a8b0-415e-94d9-14e369cf9944.png",
+      "prompt": "Use case: product-mockup\nAsset type: representative product illustration for a wholesale flower webshop prototype\nScene/backdrop: neutral warm very light grey seamless studio background\nStyle/medium: photographic botanical realism, refined studio catalogue photography\nComposition/framing: portrait 2:3 image, full tied bunch centered including long stems and visible cut ends, 8–12 stems, generous empty space around all sides, entire bunch inside frame\nLighting/mood: soft natural light and delicate shadow\nConstraints: this is a representative prototype illustration, not an actual supplier stock photograph or a verified cultivar. No text, no watermark, no logo, no vase, no wrapper.\nSubject: a tied bunch of pink Oriental lilies, recognizable trumpet-shaped pink petals with pale edges, spotted central throats and visible stamens, with a few unopened buds."
+    },
+    {
+      "name": "purple-double-lisianthus",
+      "path": "/Users/andres/Documents/Codex/2026-09-08/le/outputs/recommendation-assets/purple-double-lisianthus.png",
+      "source": "/Users/andres/.codex/generated_images/01a0cd65-7698-72c3-9d87-a35872cd5740/exec-97469f70-25bc-4d49-862f-b1f764ac30be.png",
+      "prompt": "Use case: product-mockup\nAsset type: representative product illustration for a wholesale flower webshop prototype\nScene/backdrop: neutral warm very light grey seamless studio background\nStyle/medium: photographic botanical realism, refined studio catalogue photography\nComposition/framing: portrait 2:3 image, full tied bunch centered including long stems and visible cut ends, 8–12 stems, generous empty space around all sides, entire bunch inside frame\nLighting/mood: soft natural light and delicate shadow\nConstraints: this is a representative prototype illustration, not an actual supplier stock photograph or a verified cultivar. No text, no watermark, no logo, no vase, no wrapper.\nSubject: a tied bunch of purple double lisianthus with purple ruffled double blooms, slender branching stems, green leaves, and buds."
+    },
+    {
+      "name": "italian-ruscus",
+      "path": "/Users/andres/Documents/Codex/2026-09-08/le/outputs/recommendation-assets/italian-ruscus.png",
+      "source": "/Users/andres/.codex/generated_images/01a0cd65-7698-72c3-9d87-a35872cd5740/exec-cfb02754-2cf7-4898-806a-5549106a5021.png",
+      "prompt": "Use case: product-mockup\nAsset type: representative product illustration for a wholesale flower webshop prototype\nScene/backdrop: neutral warm very light grey seamless studio background\nStyle/medium: photographic botanical realism, refined studio catalogue photography\nComposition/framing: portrait 2:3 image, full tied bunch centered including long stems and visible cut ends, 8–12 stems, generous empty space around all sides, entire bunch inside frame\nLighting/mood: soft natural light and delicate shadow\nConstraints: this is a representative prototype illustration, not an actual supplier stock photograph or a verified cultivar. No text, no watermark, no logo, no vase, no wrapper.\nSubject: a tied bunch of Italian ruscus foliage, green glossy pointed leaves on upright branching stems, no flowers."
+    }
+  ]
+}

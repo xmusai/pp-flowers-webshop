@@ -1,0 +1,66 @@
+{
+  "mode": "built-in image_gen",
+  "note": "AI-generated illustrative product images for mock plant data. Not supplier stock photography or a verified representation of any offer.",
+  "assets": [
+    {
+      "id": "pl-monstera",
+      "path": "assets/plant-mock/pl-monstera.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-2ed84c08-a28b-440d-a1fd-ffe1e0fb01e7.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one healthy Monstera deliciosa plant with broad glossy split green leaves in a plain warm-grey 17 cm nursery pot, approximately 65 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    },
+    {
+      "id": "pl-phal-pink",
+      "path": "assets/plant-mock/pl-phal-pink.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-3226c691-0e8a-4759-8560-4e3f751394d5.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one pink Phalaenopsis orchid, two graceful flower spikes with several soft pink blooms and thick green basal leaves, in a plain warm-grey 12 cm nursery pot, approximately 55 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    },
+    {
+      "id": "pl-anthurium",
+      "path": "assets/plant-mock/pl-anthurium.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-7ea59ea3-03ea-4fb6-8d69-16061c9a777f.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one healthy Anthurium andraeanum with three vivid red heart-shaped spathes, pale yellow spadices and glossy dark green leaves, in a plain warm-grey 14 cm nursery pot, approximately 45 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    },
+    {
+      "id": "pl-spathiphyllum",
+      "path": "assets/plant-mock/pl-spathiphyllum.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-7515a2c2-7e04-428e-9a8e-87a493ad9437.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one healthy Spathiphyllum peace lily with lush lance-shaped deep green leaves and three elegant white spathes, in a plain warm-grey 14 cm nursery pot, approximately 50 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    },
+    {
+      "id": "pl-begonia",
+      "path": "assets/plant-mock/pl-begonia.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-846a071d-db5f-47db-9d3b-5a1acffe5ffe.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one compact flowering Begonia elatior with clusters of double coral-orange flowers and rich green leaves, in a plain warm-grey 12 cm nursery pot, approximately 30 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    },
+    {
+      "id": "pl-ficus",
+      "path": "assets/plant-mock/pl-ficus.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-bed67e80-60f3-435a-a06e-ee1a00fa868b.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one healthy young Ficus elastica rubber plant with upright stems and broad, thick, glossy dark green oval leaves, in a plain warm-grey 17 cm nursery pot, approximately 70 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    },
+    {
+      "id": "pl-zamioculcas",
+      "path": "assets/plant-mock/pl-zamioculcas.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-559e7f21-0a16-44c7-9afa-41a84761c562.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one healthy Zamioculcas zamiifolia ZZ plant with several arching upright stems lined with glossy dark-green oval leaflets, in a plain warm-grey 14 cm nursery pot, approximately 50 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    },
+    {
+      "id": "pl-calathea",
+      "path": "assets/plant-mock/pl-calathea.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-83418a79-e6fa-4f35-ae73-46a82c025e6f.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one healthy Calathea orbifolia with a full rosette of broad round green leaves with silvery-green stripes, in a plain warm-grey 14 cm nursery pot, approximately 40 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    },
+    {
+      "id": "pl-aloe",
+      "path": "assets/plant-mock/pl-aloe.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-ed09c2c5-2af4-4d8c-8825-f1abc33e5567.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one healthy Aloe vera with thick upright fleshy green pointed leaves and small serrations, in a plain warm-grey 12 cm nursery pot, approximately 30 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    },
+    {
+      "id": "pl-succulent",
+      "path": "assets/plant-mock/pl-succulent.jpg",
+      "source": "/Users/andres/.codex/generated_images/01a07fb5-aebd-77e3-8a61-9b17b4149548/exec-4e53904d-898a-4426-bc0f-c76888f1b594.png",
+      "prompt": "Use case: product-mockup. Asset type: PP Flowers mock plant catalogue photograph. Create a photorealistic studio product image of one compact mixed succulent arrangement containing a pale-green echeveria rosette, an upright zebra haworthia and a small green sedum, together in a single plain warm-grey 8.5 cm nursery pot, approximately 12 cm overall height. Whole plant and pot fully visible, centered and upright, fills 80% of frame height. Square composition, seamless light warm grey-beige background, soft diffuse daylight from upper left, subtle ground shadow. Clean wholesale plant catalogue photography, realistic leaf texture and proportions. No room, no other objects, no hands, no labels, no logos, no text, no watermark. This is illustrative mock stock, not a photograph of a specific supplier's inventory."
+    }
+  ]
+}

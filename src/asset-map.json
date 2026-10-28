@@ -1,0 +1,411 @@
+{
+  "paths": {
+    "98d2a726-06d4-441d-9fee-bb76cfc03546": {
+      "path": "assets/98d2a726-06d4-441d-9fee-bb76cfc03546.jpg",
+      "mime": "image/jpeg"
+    },
+    "c120cf0b-6c6e-496d-ab56-d91983fb72f4": {
+      "path": "assets/c120cf0b-6c6e-496d-ab56-d91983fb72f4.jpg",
+      "mime": "image/jpeg"
+    },
+    "40b537f4-f875-4c28-9ba2-3597b2f387a0": {
+      "path": "assets/40b537f4-f875-4c28-9ba2-3597b2f387a0.jpg",
+      "mime": "image/jpeg"
+    },
+    "722a57e3-6e83-4dfa-a41b-369c81ea6eb2": {
+      "path": "assets/722a57e3-6e83-4dfa-a41b-369c81ea6eb2.jpg",
+      "mime": "image/jpeg"
+    },
+    "83568ac4-efd3-472d-adf3-01266dce821f": {
+      "path": "assets/83568ac4-efd3-472d-adf3-01266dce821f.jpg",
+      "mime": "image/jpeg"
+    },
+    "c4b6ed3f-9745-4d7d-969c-9a874cd07144": {
+      "path": "assets/c4b6ed3f-9745-4d7d-969c-9a874cd07144.jpg",
+      "mime": "image/jpeg"
+    },
+    "326b3d06-0787-490b-b9bf-ee5ecfae2f11": {
+      "path": "assets/326b3d06-0787-490b-b9bf-ee5ecfae2f11.png",
+      "mime": "image/png"
+    },
+    "024c0e82-c801-40b0-b4d9-d08c98ab527d": {
+      "path": "assets/024c0e82-c801-40b0-b4d9-d08c98ab527d.jpg",
+      "mime": "image/jpeg"
+    },
+    "68e5de05-fb89-49c2-a4f4-20ced52b5224": {
+      "path": "assets/68e5de05-fb89-49c2-a4f4-20ced52b5224.jpg",
+      "mime": "image/jpeg"
+    },
+    "f42baa30-433a-45df-b13f-8604fcc6c7d3": {
+      "path": "assets/f42baa30-433a-45df-b13f-8604fcc6c7d3.jpg",
+      "mime": "image/jpeg"
+    },
+    "fa6a58c0-4023-48be-aafe-edb51cddeb00": {
+      "path": "assets/fa6a58c0-4023-48be-aafe-edb51cddeb00.jpg",
+      "mime": "image/jpeg"
+    },
+    "cec56120-e63f-4e69-8f3b-e858b290e3e1": {
+      "path": "assets/cec56120-e63f-4e69-8f3b-e858b290e3e1.png",
+      "mime": "image/png"
+    },
+    "b56c64a8-6cbf-49d5-b960-eb6dd99a20dc": {
+      "path": "assets/b56c64a8-6cbf-49d5-b960-eb6dd99a20dc.jpg",
+      "mime": "image/jpeg"
+    },
+    "e4544c2d-a852-41e7-9b36-4f38f1596c57": {
+      "path": "assets/e4544c2d-a852-41e7-9b36-4f38f1596c57.jpg",
+      "mime": "image/jpeg"
+    },
+    "66cc3b2f-bf58-40a7-87be-87523af6ab4f": {
+      "path": "assets/66cc3b2f-bf58-40a7-87be-87523af6ab4f.jpg",
+      "mime": "image/jpeg"
+    },
+    "a6dd8853-29c1-45ef-a2af-898e236e13df": {
+      "path": "assets/a6dd8853-29c1-45ef-a2af-898e236e13df.jpg",
+      "mime": "image/jpeg"
+    },
+    "e7db3876-2489-4f25-82d4-5f1c55c0e501": {
+      "path": "assets/e7db3876-2489-4f25-82d4-5f1c55c0e501.jpg",
+      "mime": "image/jpeg"
+    },
+    "234c6ff8-f441-464e-92b3-3c8820071a2d": {
+      "path": "assets/234c6ff8-f441-464e-92b3-3c8820071a2d.jpg",
+      "mime": "image/jpeg"
+    },
+    "cdf34c75-99cd-43bb-a642-de2a042a0624": {
+      "path": "assets/cdf34c75-99cd-43bb-a642-de2a042a0624.jpg",
+      "mime": "image/jpeg"
+    },
+    "d3dc1434-2c66-4171-9fb3-fb0e8da70d2f": {
+      "path": "assets/d3dc1434-2c66-4171-9fb3-fb0e8da70d2f.jpg",
+      "mime": "image/jpeg"
+    },
+    "73e90cbc-9e60-438d-998c-830153602f8a": {
+      "path": "assets/73e90cbc-9e60-438d-998c-830153602f8a.woff2",
+      "mime": "font/woff2"
+    },
+    "639661df-0739-4869-a923-ae959843d8d1": {
+      "path": "assets/639661df-0739-4869-a923-ae959843d8d1.woff2",
+      "mime": "font/woff2"
+    },
+    "602b9065-1a13-4c95-8228-6f97e82a3822": {
+      "path": "assets/602b9065-1a13-4c95-8228-6f97e82a3822.woff2",
+      "mime": "font/woff2"
+    },
+    "bf097565-56f9-4b44-93e4-dbe1f8b23d12": {
+      "path": "assets/bf097565-56f9-4b44-93e4-dbe1f8b23d12.woff2",
+      "mime": "font/woff2"
+    },
+    "f0a48eb0-0583-41a0-aa6a-7b6384b202be": {
+      "path": "assets/f0a48eb0-0583-41a0-aa6a-7b6384b202be.woff2",
+      "mime": "font/woff2"
+    },
+    "f5983ed0-6732-4980-9542-bd1d650f7620": {
+      "path": "assets/f5983ed0-6732-4980-9542-bd1d650f7620.woff2",
+      "mime": "font/woff2"
+    },
+    "7e681d77-1e27-478e-8d7b-7c25cc96df01": {
+      "path": "assets/7e681d77-1e27-478e-8d7b-7c25cc96df01.woff2",
+      "mime": "font/woff2"
+    },
+    "50f4520f-5f3e-4607-b4fd-09b1e868e970": {
+      "path": "assets/50f4520f-5f3e-4607-b4fd-09b1e868e970.woff2",
+      "mime": "font/woff2"
+    },
+    "925f3e22-813c-41c0-9d55-16b2179b5718": {
+      "path": "assets/925f3e22-813c-41c0-9d55-16b2179b5718.woff2",
+      "mime": "font/woff2"
+    },
+    "40f43620-f5dc-4139-b4ec-38900b87a335": {
+      "path": "assets/40f43620-f5dc-4139-b4ec-38900b87a335.woff2",
+      "mime": "font/woff2"
+    },
+    "ea03150e-0288-4425-b098-5c64943fd28d": {
+      "path": "assets/ea03150e-0288-4425-b098-5c64943fd28d.woff2",
+      "mime": "font/woff2"
+    },
+    "59e5ac46-a71f-4308-a8bb-71b83bc0e6ae": {
+      "path": "assets/59e5ac46-a71f-4308-a8bb-71b83bc0e6ae.woff2",
+      "mime": "font/woff2"
+    },
+    "a63c1c7e-13b7-4484-b378-27b2bdc5b4cd": {
+      "path": "assets/a63c1c7e-13b7-4484-b378-27b2bdc5b4cd.woff2",
+      "mime": "font/woff2"
+    },
+    "ba1ad8f0-0d55-41e5-94c8-7f7aac0ab275": {
+      "path": "assets/ba1ad8f0-0d55-41e5-94c8-7f7aac0ab275.woff2",
+      "mime": "font/woff2"
+    },
+    "b09c7a3b-9671-4717-bc9f-359a22974026": {
+      "path": "assets/b09c7a3b-9671-4717-bc9f-359a22974026.woff2",
+      "mime": "font/woff2"
+    },
+    "41b62ef1-aa74-426f-af21-5b0aeb3ffc9a": {
+      "path": "assets/41b62ef1-aa74-426f-af21-5b0aeb3ffc9a.woff2",
+      "mime": "font/woff2"
+    },
+    "9c27f0b6-1976-4b7e-86a6-ba34374057c6": {
+      "path": "assets/9c27f0b6-1976-4b7e-86a6-ba34374057c6.woff2",
+      "mime": "font/woff2"
+    },
+    "84618d0f-2df8-4e1f-bbaa-ace794101f94": {
+      "path": "assets/84618d0f-2df8-4e1f-bbaa-ace794101f94.woff2",
+      "mime": "font/woff2"
+    },
+    "e28ed137-afa6-4e9f-84d3-e2aeb174f1a9": {
+      "path": "assets/e28ed137-afa6-4e9f-84d3-e2aeb174f1a9.woff2",
+      "mime": "font/woff2"
+    },
+    "032c5203-0921-49eb-9f2b-41c9f072354d": {
+      "path": "assets/032c5203-0921-49eb-9f2b-41c9f072354d.woff2",
+      "mime": "font/woff2"
+    },
+    "8c5dc60e-b05b-4ac9-aa4a-cd37592bf42b": {
+      "path": "assets/8c5dc60e-b05b-4ac9-aa4a-cd37592bf42b.woff2",
+      "mime": "font/woff2"
+    },
+    "3baff547-f4a2-4907-aa80-cb629bd9f505": {
+      "path": "assets/3baff547-f4a2-4907-aa80-cb629bd9f505.woff2",
+      "mime": "font/woff2"
+    },
+    "5126032f-e3d3-461a-b857-cb21b571ff6b": {
+      "path": "assets/5126032f-e3d3-461a-b857-cb21b571ff6b.woff2",
+      "mime": "font/woff2"
+    },
+    "fea31241-7e72-4e4f-afe2-baffe6bc765b": {
+      "path": "assets/fea31241-7e72-4e4f-afe2-baffe6bc765b.woff2",
+      "mime": "font/woff2"
+    },
+    "b26d231c-bbef-4863-996b-e0decffe394a": {
+      "path": "assets/b26d231c-bbef-4863-996b-e0decffe394a.woff2",
+      "mime": "font/woff2"
+    },
+    "f1e10076-800c-48f7-84b5-73fd7191b8b1": {
+      "path": "assets/f1e10076-800c-48f7-84b5-73fd7191b8b1.woff2",
+      "mime": "font/woff2"
+    },
+    "3bf84035-fcd1-4036-874d-2fa685b97cc1": {
+      "path": "assets/3bf84035-fcd1-4036-874d-2fa685b97cc1.woff2",
+      "mime": "font/woff2"
+    },
+    "fe8dae5e-2143-423a-aa91-ecef9c7922a3": {
+      "path": "assets/fe8dae5e-2143-423a-aa91-ecef9c7922a3.woff2",
+      "mime": "font/woff2"
+    },
+    "911f306e-3e1e-4695-82c9-c198154ec604": {
+      "path": "assets/911f306e-3e1e-4695-82c9-c198154ec604.woff2",
+      "mime": "font/woff2"
+    },
+    "172278d9-57c3-471d-a4cf-912ed1368b6b": {
+      "path": "assets/172278d9-57c3-471d-a4cf-912ed1368b6b.woff2",
+      "mime": "font/woff2"
+    },
+    "fc37cf57-2d1f-4655-bfa6-8187d4b6e466": {
+      "path": "assets/fc37cf57-2d1f-4655-bfa6-8187d4b6e466.woff2",
+      "mime": "font/woff2"
+    },
+    "5f2ed091-ae01-4373-9135-339e751a0dd7": {
+      "path": "assets/5f2ed091-ae01-4373-9135-339e751a0dd7.woff2",
+      "mime": "font/woff2"
+    },
+    "1df881dd-9109-4343-83f6-4663805cf5dc": {
+      "path": "assets/1df881dd-9109-4343-83f6-4663805cf5dc.woff2",
+      "mime": "font/woff2"
+    },
+    "98f558c6-0997-4158-9bff-6d85f7b2d214": {
+      "path": "assets/98f558c6-0997-4158-9bff-6d85f7b2d214.woff2",
+      "mime": "font/woff2"
+    },
+    "8d2412d1-4085-4411-a892-a0a09b78ba9c": {
+      "path": "assets/8d2412d1-4085-4411-a892-a0a09b78ba9c.woff2",
+      "mime": "font/woff2"
+    },
+    "8e7a06dc-ba5e-4763-80d4-78f31e09184a": {
+      "path": "assets/8e7a06dc-ba5e-4763-80d4-78f31e09184a.woff2",
+      "mime": "font/woff2"
+    },
+    "07f6bc42-8b5c-4a2b-83b2-495cd913603f": {
+      "path": "assets/07f6bc42-8b5c-4a2b-83b2-495cd913603f.woff2",
+      "mime": "font/woff2"
+    },
+    "e7786b5f-4e31-4e44-ac8d-c3cdf4e0fd12": {
+      "path": "assets/e7786b5f-4e31-4e44-ac8d-c3cdf4e0fd12.woff2",
+      "mime": "font/woff2"
+    },
+    "9127d89c-8980-4430-b147-455dded5e7e1": {
+      "path": "assets/9127d89c-8980-4430-b147-455dded5e7e1.woff2",
+      "mime": "font/woff2"
+    },
+    "c3d2bf8a-3259-49c8-91fc-43086042d595": {
+      "path": "assets/c3d2bf8a-3259-49c8-91fc-43086042d595.woff2",
+      "mime": "font/woff2"
+    },
+    "bb19f047-730c-4df7-93e4-8c845dc07656": {
+      "path": "assets/bb19f047-730c-4df7-93e4-8c845dc07656.woff2",
+      "mime": "font/woff2"
+    },
+    "64620f22-01eb-43c6-ac15-b4c6843ae980": {
+      "path": "assets/64620f22-01eb-43c6-ac15-b4c6843ae980.woff2",
+      "mime": "font/woff2"
+    },
+    "84bddb3f-7fc0-4bb6-979e-b715a193c848": {
+      "path": "assets/84bddb3f-7fc0-4bb6-979e-b715a193c848.woff2",
+      "mime": "font/woff2"
+    },
+    "9ad73545-0113-47aa-a6ef-32994545e004": {
+      "path": "assets/9ad73545-0113-47aa-a6ef-32994545e004.woff2",
+      "mime": "font/woff2"
+    },
+    "73a808ff-fbe5-4ba6-9833-2dc1a66433af": {
+      "path": "assets/73a808ff-fbe5-4ba6-9833-2dc1a66433af.woff2",
+      "mime": "font/woff2"
+    },
+    "1414579b-853d-4305-8ef7-f3c9d1328c46": {
+      "path": "assets/1414579b-853d-4305-8ef7-f3c9d1328c46.woff2",
+      "mime": "font/woff2"
+    },
+    "a6425fd4-eca3-4334-9205-52e3c8291ead": {
+      "path": "assets/a6425fd4-eca3-4334-9205-52e3c8291ead.woff2",
+      "mime": "font/woff2"
+    },
+    "ab43e622-89ba-404a-ab67-7782d83e518c": {
+      "path": "assets/ab43e622-89ba-404a-ab67-7782d83e518c.woff2",
+      "mime": "font/woff2"
+    },
+    "ec755493-a3d8-4e1e-8070-2ba17710f670": {
+      "path": "assets/ec755493-a3d8-4e1e-8070-2ba17710f670.woff2",
+      "mime": "font/woff2"
+    },
+    "50e6803b-b7d7-47b5-81ea-7dc4807d58be": {
+      "path": "assets/50e6803b-b7d7-47b5-81ea-7dc4807d58be.woff2",
+      "mime": "font/woff2"
+    },
+    "a7d2e5ce-7f74-4408-a5e3-11270c592dc2": {
+      "path": "assets/a7d2e5ce-7f74-4408-a5e3-11270c592dc2.woff2",
+      "mime": "font/woff2"
+    },
+    "5daa05d2-627a-41af-9eb1-520194fad3dd": {
+      "path": "assets/5daa05d2-627a-41af-9eb1-520194fad3dd.woff2",
+      "mime": "font/woff2"
+    },
+    "788f16a8-dd29-4ed1-9a90-4f50ccad2a42": {
+      "path": "assets/788f16a8-dd29-4ed1-9a90-4f50ccad2a42.woff2",
+      "mime": "font/woff2"
+    },
+    "eb1055de-6e76-44f0-93ce-5e27b4742a60": {
+      "path": "assets/eb1055de-6e76-44f0-93ce-5e27b4742a60.png",
+      "mime": "image/png"
+    },
+    "5580a843-59bd-4ed7-abec-869e54494ce3": {
+      "path": "assets/5580a843-59bd-4ed7-abec-869e54494ce3.jpg",
+      "mime": "image/jpeg"
+    },
+    "gerbera-market-illustration": {
+      "path": "assets/gerbera-market-illustration.png",
+      "mime": "image/png"
+    },
+    "recommendation-l-sorbonne": {
+      "path": "assets/pink-oriental-lily-illustration.jpg",
+      "mime": "image/jpeg"
+    },
+    "recommendation-s-lisianthus": {
+      "path": "assets/purple-double-lisianthus-illustration.jpg",
+      "mime": "image/jpeg"
+    },
+    "recommendation-gr-ruscus": {
+      "path": "assets/italian-ruscus-illustration.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-monstera": {
+      "path": "assets/plant-mock/pl-monstera.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-phal-pink": {
+      "path": "assets/plant-mock/pl-phal-pink.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-anthurium": {
+      "path": "assets/plant-mock/pl-anthurium.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-spathiphyllum": {
+      "path": "assets/plant-mock/pl-spathiphyllum.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-begonia": {
+      "path": "assets/plant-mock/pl-begonia.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-ficus": {
+      "path": "assets/plant-mock/pl-ficus.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-zamioculcas": {
+      "path": "assets/plant-mock/pl-zamioculcas.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-calathea": {
+      "path": "assets/plant-mock/pl-calathea.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-aloe": {
+      "path": "assets/plant-mock/pl-aloe.jpg",
+      "mime": "image/jpeg"
+    },
+    "mock-image-pl-succulent": {
+      "path": "assets/plant-mock/pl-succulent.jpg",
+      "mime": "image/jpeg"
+    }
+  },
+  "resources": {
+    "shot-p-sarah": "98d2a726-06d4-441d-9fee-bb76cfc03546",
+    "shot-pl-kalanchoe": "c120cf0b-6c6e-496d-ab56-d91983fb72f4",
+    "shot-c-anastasia": "40b537f4-f875-4c28-9ba2-3597b2f387a0",
+    "shot-l-sorbonne": "recommendation-l-sorbonne",
+    "shot-g-intenzz": "gerbera-market-illustration",
+    "shot-c-bacardi": "c4b6ed3f-9745-4d7d-969c-9a874cd07144",
+    "logoDark": "326b3d06-0787-490b-b9bf-ee5ecfae2f11",
+    "shot-gr-ruscus": "recommendation-gr-ruscus",
+    "shot-r-quicksand": "68e5de05-fb89-49c2-a4f4-20ced52b5224",
+    "shot-gr-euc": "f42baa30-433a-45df-b13f-8604fcc6c7d3",
+    "shot-r-rednaomi": "fa6a58c0-4023-48be-aafe-edb51cddeb00",
+    "ppMark": "cec56120-e63f-4e69-8f3b-e858b290e3e1",
+    "shot-pl-phal": "b56c64a8-6cbf-49d5-b960-eb6dd99a20dc",
+    "shot-r-avalanche": "e4544c2d-a852-41e7-9b36-4f38f1596c57",
+    "shot-s-ranunculus": "66cc3b2f-bf58-40a7-87be-87523af6ab4f",
+    "shot-s-anemone": "a6dd8853-29c1-45ef-a2af-898e236e13df",
+    "shot-s-hydrangea": "e7db3876-2489-4f25-82d4-5f1c55c0e501",
+    "shot-t-dynasty": "234c6ff8-f441-464e-92b3-3c8820071a2d",
+    "shot-t-stronggold": "cdf34c75-99cd-43bb-a642-de2a042a0624",
+    "shot-r-athena": "d3dc1434-2c66-4171-9fb3-fb0e8da70d2f",
+    "shot-s-lisianthus": "recommendation-s-lisianthus",
+    "shot-pl-monstera": "mock-image-pl-monstera",
+    "shot-pl-phal-pink": "mock-image-pl-phal-pink",
+    "shot-pl-anthurium": "mock-image-pl-anthurium",
+    "shot-pl-spathiphyllum": "mock-image-pl-spathiphyllum",
+    "shot-pl-begonia": "mock-image-pl-begonia",
+    "shot-pl-ficus": "mock-image-pl-ficus",
+    "shot-pl-zamioculcas": "mock-image-pl-zamioculcas",
+    "shot-pl-calathea": "mock-image-pl-calathea",
+    "shot-pl-aloe": "mock-image-pl-aloe",
+    "shot-pl-succulent": "mock-image-pl-succulent"
+  },
+  "legacy": [
+    "src/legacy/2f230aaa-ec4c-456f-9f4f-cec0f6940cdd.jsx",
+    "src/legacy/89fe9216-3d32-43d3-831b-24250d863f05.jsx",
+    "src/legacy/fed3bc4e-4559-4912-b4dd-9e2e9bc3c3ed.jsx",
+    "src/legacy/8bcee13c-573f-4f5b-ad82-5f21c8f3e3db.jsx",
+    "src/legacy/33edaddc-ec51-4db4-9fa9-8e3e05904b80.jsx",
+    "src/legacy/f29f65b2-cbef-4e23-aeb2-231de8be6b76.jsx",
+    "src/legacy/67f9d054-3053-4fe5-974d-f418b7ff7673.jsx",
+    "src/legacy/3c338444-a703-40a8-8856-4ed337bddfd3.jsx",
+    "src/legacy/3d1ee4eb-4413-4a14-be70-55f61e4ecc76.jsx",
+    "src/legacy/9eb8599f-9425-481d-9d59-d2d47173ba30.jsx",
+    "src/legacy/47acb057-ce4f-41ee-a596-2150e7f92a97.jsx",
+    "src/legacy/73b0c9dd-e8cd-4384-9b2b-3d50735fb75f.jsx",
+    "src/legacy/5368ad03-198c-471b-bb66-f9cb8dfe5f2f.jsx",
+    "src/legacy/72762c82-3974-4c89-a801-96103de9fada.jsx",
+    "src/legacy/da87177b-ea11-42d9-a0cf-046415965078.jsx",
+    "src/legacy/d8836b3c-b1f9-4c79-99ad-50f858c0158d.jsx"
+  ]
+}
